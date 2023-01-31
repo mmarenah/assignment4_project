@@ -9,7 +9,7 @@ public static void main(String[] args){
     int temperature = weather.nextInt();
     if (temperature >= 50 )
     {
-        System.out.println("It is hot outside, be sure to wear wear a beach hat!");
+        System.out.println("It is hot outside, be sure to wear a beach hat!");
 
     }
     else if (temperature < 50)
